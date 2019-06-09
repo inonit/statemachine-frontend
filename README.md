@@ -1,6 +1,9 @@
 # The Rise of the State Machine
 
-Helpful guide for world domination
+Helpful guide for world domination.
+
+The frontend repo for a demo given for the lightning talk
+The Rise of the State Machine for the Oslo Python Meetup June 2019.
 
 ## What you need
 
